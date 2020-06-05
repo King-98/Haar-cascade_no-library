@@ -9,5 +9,5 @@
 - Sliding window
 - Boosting
 - 양선형 보간법(Bilinear interpolation)
-- image pyramid
+- image pyramid</br>
 ![image](https://user-images.githubusercontent.com/56337609/83825543-976e6380-a714-11ea-9b0a-c30842da358f.png)
